@@ -15,4 +15,4 @@ plot3g.jl plot 3 Gaussians trajectory
 
 bas3g.jl compare basis for 3 Gaussians
 
-* Leimkuhler & Matthews (2013), https://doi.org/10.1093/amrx/abs010
+*Leimkuhler & Matthews (2013), https://doi.org/10.1093/amrx/abs010
