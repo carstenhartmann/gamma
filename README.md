@@ -1,5 +1,6 @@
 # gamma
 Estimation of integrated autocorrelation times for Langevin dynamics
+Code written by Robert D. Skeel (rskeel@purdue.edu)
  
 MCMC.jl
 
